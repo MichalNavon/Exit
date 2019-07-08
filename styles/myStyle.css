@@ -3,6 +3,8 @@
     font-family: 'GveretLevin';
     src: url('../fonts/GveretLevin.eot');
     src: url('../fonts/GveretLevin.eot?#iefix') format('embedded-opentype'), url('../fonts/GveretLevin.ttf') format('truetype');
+    font-family: 'Calibri';
+    src: url('../fonts/calibri.ttf') format('truetype');
 }
 
 /* ourOrange #F0A444 */
